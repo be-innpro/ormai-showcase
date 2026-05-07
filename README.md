@@ -133,16 +133,6 @@ This is the inverse of black-box dev assistants. **Sovereign by default.**
 - **INPI Utility Model BR** (in analysis)
 - **IGAC copyright** on FORJA Process methodology
 
-## Pricing
-
-| Plan | Users | Monthly per user |
-|---|---|---|
-| **Starter** | 10 | €220 |
-| **Professional** | 25 | €180 |
-| **Enterprise** | 50 | €160 |
-
-Custom plans for organisations with 100+ engineers. Trajectory: **13 customers in 2026 → 400 customers in 2030**.
-
 ## Roadmap
 
 | Phase | Milestone |
