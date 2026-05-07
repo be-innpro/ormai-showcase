@@ -30,17 +30,17 @@ ORMAI delivers the team they can't hire — at a fraction of the cost — with f
 
 ```
                          ┌───────────────────────────────────────────┐
-                         │       ORMAI on Customer's VPS / Cloud      │
+                         │       ORMAI on Customer's VPS / Cloud     │
                          │                                           │
                          │  ┌─────────────────────────────────────┐  │
                          │  │     LangGraph StateGraph (Core)     │  │
                          │  └─────────────────────────────────────┘  │
                          │   │                                  │    │
                          │   ▼                                  ▼    │
-                         │  ┌────────┐ ┌────────┐ ┌────────┐ ┌────┐  │
-                         │  │ Iris   │ │ Hermes │ │Promet. │ │... │  │
-                         │  │ CX     │ │ PO     │ │Architect│ │ +6 │  │
-                         │  └────────┘ └────────┘ └────────┘ └────┘  │
+                         │  ┌────────┐ ┌────────┐ ┌─────────┐ ┌────┐ │
+                         │  │ Iris   │ │ Hermes │ │Promet.  │ │... │ │
+                         │  │ CX     │ │ PO     │ │Architect│ │ +6 │ │
+                         │  └────────┘ └────────┘ └─────────┘ └────┘ │
                          │                                           │
                          │  ┌─────────────────────────────────────┐  │
                          │  │        64 MCP Tools                 │  │
